@@ -1,0 +1,1 @@
+{"version":3,"file":"src_top_5_football_leagues_premier-league_tottenham-hotspur_png.js","mappings":";;;;;;;;;;;;;AAAA,iEAAe,qBAAuB,iCAAiC","sources":["webpack://assignment_5/./src/top_5_football_leagues/premier-league/tottenham-hotspur.png"],"sourcesContent":["export default __webpack_public_path__ + \"images/tottenham-hotspur.png\";"],"names":[],"sourceRoot":""}

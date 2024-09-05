@@ -1,0 +1,1 @@
+{"version":3,"file":"src_top_5_football_leagues_serie-a_torino_png.js","mappings":";;;;;;;;;;;;;AAAA,iEAAe,qBAAuB,sBAAsB","sources":["webpack://assignment_5/./src/top_5_football_leagues/serie-a/torino.png"],"sourcesContent":["export default __webpack_public_path__ + \"images/torino.png\";"],"names":[],"sourceRoot":""}

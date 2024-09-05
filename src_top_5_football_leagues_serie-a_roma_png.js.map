@@ -1,0 +1,1 @@
+{"version":3,"file":"src_top_5_football_leagues_serie-a_roma_png.js","mappings":";;;;;;;;;;;;;AAAA,iEAAe,qBAAuB,oBAAoB","sources":["webpack://assignment_5/./src/top_5_football_leagues/serie-a/roma.png"],"sourcesContent":["export default __webpack_public_path__ + \"images/roma.png\";"],"names":[],"sourceRoot":""}

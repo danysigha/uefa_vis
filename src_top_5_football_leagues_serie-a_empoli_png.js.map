@@ -1,0 +1,1 @@
+{"version":3,"file":"src_top_5_football_leagues_serie-a_empoli_png.js","mappings":";;;;;;;;;;;;;AAAA,iEAAe,qBAAuB,sBAAsB","sources":["webpack://assignment_5/./src/top_5_football_leagues/serie-a/empoli.png"],"sourcesContent":["export default __webpack_public_path__ + \"images/empoli.png\";"],"names":[],"sourceRoot":""}

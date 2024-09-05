@@ -1,0 +1,1 @@
+{"version":3,"file":"src_top_5_football_leagues_serie-a_salernitana_png.js","mappings":";;;;;;;;;;;;;AAAA,iEAAe,qBAAuB,2BAA2B","sources":["webpack://assignment_5/./src/top_5_football_leagues/serie-a/salernitana.png"],"sourcesContent":["export default __webpack_public_path__ + \"images/salernitana.png\";"],"names":[],"sourceRoot":""}

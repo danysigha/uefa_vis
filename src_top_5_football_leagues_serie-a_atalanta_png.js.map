@@ -1,0 +1,1 @@
+{"version":3,"file":"src_top_5_football_leagues_serie-a_atalanta_png.js","mappings":";;;;;;;;;;;;;AAAA,iEAAe,qBAAuB,wBAAwB","sources":["webpack://assignment_5/./src/top_5_football_leagues/serie-a/atalanta.png"],"sourcesContent":["export default __webpack_public_path__ + \"images/atalanta.png\";"],"names":[],"sourceRoot":""}

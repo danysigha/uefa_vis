@@ -1,0 +1,1 @@
+{"version":3,"file":"src_top_5_football_leagues_la-liga_sevilla_png.js","mappings":";;;;;;;;;;;;;AAAA,iEAAe,qBAAuB,uBAAuB","sources":["webpack://assignment_5/./src/top_5_football_leagues/la-liga/sevilla.png"],"sourcesContent":["export default __webpack_public_path__ + \"images/sevilla.png\";"],"names":[],"sourceRoot":""}

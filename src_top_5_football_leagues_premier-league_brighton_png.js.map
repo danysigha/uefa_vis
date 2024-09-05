@@ -1,0 +1,1 @@
+{"version":3,"file":"src_top_5_football_leagues_premier-league_brighton_png.js","mappings":";;;;;;;;;;;;;AAAA,iEAAe,qBAAuB,wBAAwB","sources":["webpack://assignment_5/./src/top_5_football_leagues/premier-league/brighton.png"],"sourcesContent":["export default __webpack_public_path__ + \"images/brighton.png\";"],"names":[],"sourceRoot":""}

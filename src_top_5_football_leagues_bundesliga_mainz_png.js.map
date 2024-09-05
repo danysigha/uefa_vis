@@ -1,0 +1,1 @@
+{"version":3,"file":"src_top_5_football_leagues_bundesliga_mainz_png.js","mappings":";;;;;;;;;;;;;AAAA,iEAAe,qBAAuB,qBAAqB","sources":["webpack://assignment_5/./src/top_5_football_leagues/bundesliga/mainz.png"],"sourcesContent":["export default __webpack_public_path__ + \"images/mainz.png\";"],"names":[],"sourceRoot":""}

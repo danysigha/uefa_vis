@@ -1,0 +1,1 @@
+{"version":3,"file":"src_top_5_football_leagues_french-ligue1_paris-saint-germain_png.js","mappings":";;;;;;;;;;;;;AAAA,iEAAe,qBAAuB,mCAAmC","sources":["webpack://assignment_5/./src/top_5_football_leagues/french-ligue1/paris-saint-germain.png"],"sourcesContent":["export default __webpack_public_path__ + \"images/paris-saint-germain.png\";"],"names":[],"sourceRoot":""}

@@ -1,0 +1,1 @@
+{"version":3,"file":"src_top_5_football_leagues_la-liga_real-sociedad_png.js","mappings":";;;;;;;;;;;;;AAAA,iEAAe,qBAAuB,6BAA6B","sources":["webpack://assignment_5/./src/top_5_football_leagues/la-liga/real-sociedad.png"],"sourcesContent":["export default __webpack_public_path__ + \"images/real-sociedad.png\";"],"names":[],"sourceRoot":""}

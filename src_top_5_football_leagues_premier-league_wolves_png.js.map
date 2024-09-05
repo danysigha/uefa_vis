@@ -1,0 +1,1 @@
+{"version":3,"file":"src_top_5_football_leagues_premier-league_wolves_png.js","mappings":";;;;;;;;;;;;;AAAA,iEAAe,qBAAuB,sBAAsB","sources":["webpack://assignment_5/./src/top_5_football_leagues/premier-league/wolves.png"],"sourcesContent":["export default __webpack_public_path__ + \"images/wolves.png\";"],"names":[],"sourceRoot":""}

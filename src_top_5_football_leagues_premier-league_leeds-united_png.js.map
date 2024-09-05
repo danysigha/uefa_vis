@@ -1,0 +1,1 @@
+{"version":3,"file":"src_top_5_football_leagues_premier-league_leeds-united_png.js","mappings":";;;;;;;;;;;;;AAAA,iEAAe,qBAAuB,4BAA4B","sources":["webpack://assignment_5/./src/top_5_football_leagues/premier-league/leeds-united.png"],"sourcesContent":["export default __webpack_public_path__ + \"images/leeds-united.png\";"],"names":[],"sourceRoot":""}
